@@ -1,0 +1,42 @@
+h2 {
+    text-align: center;
+    color: rgb(117, 82, 82);
+  }
+
+
+  .naslov {
+    color: rgb(62, 172, 209);
+    padding-left: 4%;
+    padding-right: 4%;
+  }
+  
+  .opis {
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 40px;
+  }
+
+
+
+
+  
+  .kont {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-right: 14%;
+    margin-left: 14%;
+  }
+  .card {
+    width: 30%;
+  }
+  
+  .card_container {
+    width: 100%;
+  }
+  
+  .card_image {
+    width: 100%;
+  }
+  
